@@ -1,0 +1,36 @@
+html{
+    font-size: 100%;
+}
+div{
+    width: 400px;
+    height: 300px;
+}
+div{
+    width:25rem ;
+    height: 18.75rem; ;
+}
+p{
+    margin-top: 3rem;
+    margin-bottom: 3rem ;
+}
+span{
+    padding-left: 2rem;
+    padding-right:2rem ;
+    padding-top:2rem ;
+    padding-bottom:2rem ;
+}
+span{
+    border: solid black;
+    border-width: 2px;
+}
+section{
+    font-size: 1.125rem;
+    color:#ffc700;
+    max-width: 56.25rem;
+    width: 31.25rem;
+    padding: 3rem;
+    background-color: #18354a;
+    border: solid 1px ;
+    margin: 2rem auto;
+
+}
